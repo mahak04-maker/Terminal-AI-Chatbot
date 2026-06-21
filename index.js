@@ -1,18 +1,3 @@
-//import { generateResponse } from "./utils/fallback.js";
-
-//async function main() {
-
-  //const response =
-    //await generateResponse(
-      //"What is AI?",
-      //"groq"
-    //);
-
-  //console.log(response);
-//}
-
-//main();
-
 import readline from "readline";
 import { generateResponse } from "./utils/fallback.js";
 
